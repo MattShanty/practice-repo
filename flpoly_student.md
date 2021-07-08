@@ -1,27 +1,25 @@
-## First Name Last Name
+## Matthew SHeintul
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 1 Trigonometry
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Fixing and Modifying Cars
 
-- Thing 2
+- Playing Instruments
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Riding ATVs and motorcycles
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/08
