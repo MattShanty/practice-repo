@@ -30,3 +30,7 @@ I am _passionate about_:
 |------------|------------|-----------------------------------|------------
 |**MAC**     |**1147**    |_Pre-calculus Algebra/Trigonometry_| 4
 |**COP**     |**2073**    |_Introduction to Data Science_     | 3
+
+
+
+
